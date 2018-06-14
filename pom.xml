@@ -29,5 +29,11 @@
       </plugin>
     </plugins>
   </build>
-  
+  <repositories>
+    <repository>
+      <id>my-repo1</id>
+      <name>your custom repo</name>
+      <url>http://nowork.com</url>
+    </repository>
+  </repositories>
 </project>
