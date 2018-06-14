@@ -10,7 +10,7 @@
       <name>your custom repo</name>
       <url>http://BLA</url>
     </repository>
-   <repositories>
+   </repositories>
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
