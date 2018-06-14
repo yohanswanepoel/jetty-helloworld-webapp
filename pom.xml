@@ -4,6 +4,12 @@
   <groupId>org.eclipse.jetty.demo</groupId>
   <artifactId>jetty-helloworld-webapp</artifactId>
   <version>1.0</version>
+  <repositories>
+    <repository>
+      <id>my-repo1</id>
+      <name>your custom repo</name>
+      <url>http://BLA</url>
+    </repository>
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
